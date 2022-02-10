@@ -1,0 +1,44 @@
+// Font
+$mainFont                : 'Baloo 2', 'Nunito', sans-serif;
+
+// Size
+$mainFontColor           : #000;
+$mainFontSize            : 18px;
+$mainFontWeight          : 400;
+$mainLineHeight          : 1.4;
+
+$lgDesktopWidth          : 1400px;
+$mdDesktopWidth          : 1250px;
+$smDesktopWidth          : 980px;
+$tableWidth              : 768px;
+$phoneWidth              : 480px;
+$smPhoneWidth            : 320px;
+
+// Main color
+$primary-color           : hsl(163, 100%, 44%);
+$secondary-color         : hsl(202, 100%, 23%);
+$tertiary-color          : hsl(196, 100%, 92%);
+$success-color           : hsl(150, 74%, 51%);
+$danger-color            : hsl(1, 83%, 56%);
+$warning-color           : hsl(47, 99%, 59%);
+$info-color              : hsl(210, 25%, 48%);
+$light-color             : hsl(0, 0%, 100%);
+$dark-color              : hsl(0, 0%, 0%);
+
+// Fonts
+$text-primary-color      : hsl(220, 3%, 19%);
+$text-regular-color      : hsl(220, 3%, 39%);
+$text-secondary-color    : hsl(220, 4%, 58%);
+$text-placeholder-color  : hsl(220, 11%, 78%);
+
+// Border
+$border-base-color       : hsl(222, 17%, 88%);
+$border-light-color      : hsl(220, 20%, 91%);
+$border-lighter-color    : hsl(222, 33%, 94%);
+$border-extra-light-color: hsl(216, 63%, 97%);
+
+// Background
+$fon-white-color         : hsl(0, 0%, 100%);
+$fon-black-color         : hsl(0, 0%, 0%);
+$fon-color-base          : hsl(216, 33%, 97%);
+

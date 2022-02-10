@@ -1,29 +1,29 @@
-# Nuxt 3 Minimal Starter
+# vue-cli
 
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
-
-## Setup
-
-Make sure to install the dependencies
-
-```bash
-yarn install
+## Project setup
+```
+npm install
 ```
 
-## Development
-
-Start the development server on http://localhost:3000
-
-```bash
-yarn dev
+### Compiles and hot-reloads for development
+```
+npm run serve
 ```
 
-## Production
-
-Build the application for production:
-
-```bash
-yarn build
+### Compiles and minifies for production
+```
+npm run build
 ```
 
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
+### Run your unit tests
+```
+npm run test:unit
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
